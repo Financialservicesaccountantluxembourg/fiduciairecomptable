@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/googled14bea7ed20424b5.html",
+      "destination": "/google-verification.txt"
+    },
+    {
+      "source": "/googled14bea7ed20424b5",
+      "destination": "/google-verification.txt"
+    }
+  ]
+}
